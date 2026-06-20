@@ -1,7 +1,0 @@
-[submodule "NanoBoost-FRONTEND"]
-    path = NanoBoost-FRONTEND
-    url = git@github.com:KevinEJean/NanoBoost-FRONTEND.git
-
-[submodule "NanoBoost-BACKEND"]
-    path = NanoBoost-BACKEND
-    url = git@github.com:KevinEJean/NanoBoost-BACKEND.git
